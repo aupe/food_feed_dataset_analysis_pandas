@@ -1,0 +1,118 @@
+item_code,item,item_category
+2511,Wheat and products,Crop
+2513,Barley and products,Crop
+2514,Maize and products,Crop
+2515,Rye and products,Crop
+2516,Oats,Crop
+2517,Millet and products,Crop
+2518,Sorghum and products,Crop
+2520,"Cereals, Other",Crop
+2531,Potatoes and products,Crop
+2532,Cassava and products,Crop
+2533,Sweet potatoes,Crop
+2534,"Roots, Other",Crop
+2535,Yams,Crop
+2536,Sugar cane,Crop
+2537,Sugar beet,Crop
+2541,Sugar non-centrifugal,Sugar
+2542,Sugar (Raw Equivalent),Sugar
+2543,"Sweeteners, Other",Sugar
+2546,Beans,Crop
+2547,Peas,Crop
+2549,"Pulses, Other and products",Crop
+2551,Nuts and products,Nuts
+2555,Soyabeans,Crop
+2556,Groundnuts (Shelled Eq),Nuts
+2557,Sunflower seed,Crop
+2558,Rape and Mustardseed,Crop
+2559,Cottonseed,Crop
+2560,Coconuts - Incl Copra,Crop
+2561,Sesame seed,Crop
+2562,Palm kernels,Crop
+2563,Olives (including preserved),Crop
+2570,"Oilcrops, Other",Crop
+2571,Soyabean Oil,Vegetable oil
+2572,Groundnut Oil,Vegetable oil
+2573,Sunflowerseed Oil,Vegetable oil
+2574,Rape and Mustard Oil,Vegetable oil
+2575,Cottonseed Oil,Vegetable oil
+2576,Palmkernel Oil,Vegetable oil
+2577,Palm Oil,Vegetable oil
+2578,Coconut Oil,Vegetable oil
+2579,Sesameseed Oil,Vegetable oil
+2580,Olive Oil,Vegetable oil
+2581,Ricebran Oil,Vegetable oil
+2582,Maize Germ Oil,Vegetable oil
+2586,"Oilcrops Oil, Other",Vegetable oil
+2601,Tomatoes and products,Fruits & vegetables
+2602,Onions,Fruits & vegetables
+2605,"Vegetables, Other",Fruits & vegetables
+2611,"Oranges, Mandarines",Fruits & vegetables
+2612,"Lemons, Limes and products",Fruits & vegetables
+2613,Grapefruit and products,Fruits & vegetables
+2614,"Citrus, Other",Fruits & vegetables
+2615,Bananas,Fruits & vegetables
+2616,Plantains,Fruits & vegetables
+2617,Apples and products,Fruits & vegetables
+2618,Pineapples and products,Fruits & vegetables
+2619,Dates,Fruits & vegetables
+2620,Grapes and products (excl wine),Fruits & vegetables
+2625,"Fruits, Other",Fruits & vegetables
+2630,Coffee and products,"Coffee, cocoa"
+2633,Cocoa Beans and products,"Coffee, cocoa"
+2635,Tea (including mate),Tea
+2640,Pepper,Spices
+2641,Pimento,Spices
+2642,Cloves,Spices
+2645,"Spices, Other",Spices
+2655,Wine,Alcoholic Beverages
+2656,Beer,Alcoholic Beverages
+2657,"Beverages, Fermented",Alcoholic Beverages
+2658,"Beverages, Alcoholic",Alcoholic Beverages
+2680,Infant food,Infant food
+2731,Bovine Meat,Meat & Meat products
+2732,Mutton & Goat Meat,Meat & Meat products
+2733,Pigmeat,Meat & Meat products
+2734,Poultry Meat,Meat & Meat products
+2735,"Meat, Other",Meat & Meat products
+2736,"Offals, Edible",Meat & Meat products
+2737,"Fats, Animals, Raw",Meat & Meat products
+2740,"Butter, Ghee",Dairy
+2743,Cream,Dairy
+2744,Eggs,Eggs
+2745,Honey,Honey
+2761,Freshwater Fish,Fish & Fish products
+2762,Demersal Fish,Fish & Fish products
+2763,Pelagic Fish,Fish & Fish products
+2764,"Marine Fish, Other",Fish & Fish products
+2765,Crustaceans,Fish & Fish products
+2766,Cephalopods,Fish & Fish products
+2767,"Molluscs, Other",Fish & Fish products
+2768,"Meat, Aquatic Mammals",Meat & Meat products
+2769,"Aquatic Animals, Others",Fish & Fish products
+2775,Aquatic Plants,Fish & Fish products
+2781,"Fish, Body Oil",Fish & Fish products
+2782,"Fish, Liver Oil",Fish & Fish products
+2805,Rice (Milled Equivalent),Crop
+2848,Milk - Excluding Butter,Dairy
+2905,Cereals - Excluding Beer,Crop
+2907,Starchy Roots,Crop
+2908,Sugar Crops,Crop
+2909,Sugar & Sweeteners,Sugar
+2911,Pulses,Crop
+2912,Treenuts,Nuts
+2913,Oilcrops,Crop
+2914,Vegetable Oils,Vegetable oil
+2918,Vegetables,Fruits & vegetables
+2919,Fruits - Excluding Wine,Fruits & vegetables
+2922,Stimulants,Miscellaneous
+2923,Spices,Spices
+2924,Alcoholic Beverages,Alcoholic Beverages
+2928,Miscellaneous,Miscellaneous
+2943,Meat,Meat & Meat products
+2945,Offals,Meat & Meat products
+2946,Animal fats,Meat & Meat products
+2948,Milk - Excluding Butter,Dairy
+2949,Eggs,Eggs
+2960,"Fish, Seafood",Fish & Fish products
+2961,"Aquatic Products, Other",Fish & Fish products
